@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(HfmCompressCPro.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Compress.cpp
+d:\学习文档\算法设计与分析\数据结构与算法综合实验\hfmcompresscpro2\hfmcompresscpro\compress.cpp(63): warning C4101: “i”: 未引用的局部变量
+  HfmCompressCPro.vcxproj -> D:\学习文档\算法设计与分析\数据结构与算法综合实验\HfmCompressCPro2\Debug\HfmCompressCPro2.exe
